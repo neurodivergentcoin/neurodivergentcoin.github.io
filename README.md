@@ -2,12 +2,7 @@
 
 ## Public URIs
 
-[Token Icon](https://camo.githubusercontent.com/neurodivergentcoin/token/refs/heads/main/icon.png)
+[Token Icon]()
 
-[Token Meta](https://camo.githubusercontent.com/neurodivergentcoin/token/refs/heads/main/meta.json)
+[Token Meta]()
 
-## Update Cache
-
-```
-curl -X PURGE https://camo.githubusercontent.com/neurodivergentcoin/token/refs/heads/main/icon.png
-```
