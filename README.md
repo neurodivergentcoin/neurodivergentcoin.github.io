@@ -2,7 +2,7 @@
 
 ## Public URIs
 
-[Token Icon]()
+[Token Icon](https://neurodivergentcoin.github.io/token/icon.png)
 
-[Token Meta]()
+[Token Meta](https://neurodivergentcoin.github.io/token/meta.json)
 
